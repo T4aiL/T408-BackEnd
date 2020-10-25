@@ -1,31 +1,23 @@
 
-# (2020.10.27) T408-BackEnd
+# (2020.10.26/27) T408-BackEnd
 ## -------INFO
 ```
-1. XAMP
-2. Forms
+1. CANVAS vs SVG
+2. XAMP
+3. Forms
+3. PHP
 ```
 
 ### --------ZAD
 ```
-T40701 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop
+T40801 - Narysuj przy pomocy kodu identyczne kwadrat, trójkąt i koło
+i umieść na stronie. Pierwsa z nich ma być grafiką rastrową a druga wektorową
 
-T40702 - 
-Umieść zapętlone wideo jako pełnoekranowe responsywne tło strony.
-Umieść tytuł i podtytuł.
-Zaciemniaj video po najechaniu myszą na tytuł. 
-
-T40703 - Przygotuj animowany w CSS spinner (nieskończony obrót)
-
-T40704 - Wypełnij planszę 500px x 500px kwadracikami o rozmiarze 9px 
-i z odstępem 1px wypełnionymi losowym kolorem
-
-T40705 - Animuj piłke odbijającą się od ścian w Canvas.
-
+T40802 - przygotuj skrypt PHP wyświetlający ilość znaków oraz pierwszą i ostatnią literę wpisaną do formularza. 
 ```
 
 ### --------Links
-https://github.com/T4aiL/T407-MultiMedia
+https://github.com/T4aiL/T408-BackEnd
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
