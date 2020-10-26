@@ -13,7 +13,9 @@
 T40801 - Narysuj przy pomocy kodu identyczne kwadrat, trójkąt i koło z wypełnieniem
 i umieść na stronie. Pierwsza z nich ma być grafiką rastrową a druga wektorową
 
-T40802 - przygotuj skrypt PHP wyświetlający ilość znaków oraz pierwszą i ostatnią literę wpisaną do formularza. 
+T40802 - Wypełnij tablkę (4 x 4) w PHP kolejnymi numerami
+
+T40803 - przygotuj skrypt PHP wyświetlający ilość znaków oraz pierwszą i ostatnią literę wpisaną do formularza. 
 ```
 
 ### --------Links
