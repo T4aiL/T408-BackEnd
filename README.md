@@ -15,7 +15,9 @@ i umieść na stronie. Pierwsza z nich ma być grafiką rastrową a druga wektor
 
 T40802 - Wypełnij tablkę (4 x 4) w PHP kolejnymi numerami
 
-T40803 - przygotuj skrypt PHP wyświetlający ilość znaków oraz pierwszą i ostatnią literę wpisaną do formularza. 
+T40803 - przygotuj skrypt PHP wyświetlający ilość znaków oraz pierwszą i ostatnią literę wpisaną do formularza.
+
+T40804 - Odtwórz ostylowany formularz wg wzoru.
 ```
 
 ### --------Links
