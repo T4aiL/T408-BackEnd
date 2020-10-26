@@ -10,8 +10,8 @@
 
 ### --------ZAD
 ```
-T40801 - Narysuj przy pomocy kodu identyczne kwadrat, trójkąt i koło
-i umieść na stronie. Pierwsa z nich ma być grafiką rastrową a druga wektorową
+T40801 - Narysuj przy pomocy kodu identyczne kwadrat, trójkąt i koło z wypełnieniem
+i umieść na stronie. Pierwsza z nich ma być grafiką rastrową a druga wektorową
 
 T40802 - przygotuj skrypt PHP wyświetlający ilość znaków oraz pierwszą i ostatnią literę wpisaną do formularza. 
 ```
