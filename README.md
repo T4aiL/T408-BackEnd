@@ -23,6 +23,8 @@ T40804 - Odtwórz ostylowany formularz wg wzoru.
 ### --------Links
 https://github.com/T4aiL/T408-BackEnd
 
+https://www.kurshtml.edu.pl/html/przyklad,formularze.html
+
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
